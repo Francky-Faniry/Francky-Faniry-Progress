@@ -1,0 +1,20 @@
+<!Doctype>
+<head>
+	<title>membres</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie-edge">
+	<meta charset="utf-8"/>
+</head>
+<html>
+	<body>
+		<div id="resultats"></div>
+		<a href="home.html">Miverina</a>
+		<script>
+			const resultatsList = document.getElementById("resultats")
+			new URLSearchParams(window.location.search).forEach((value,name)= > {
+			resultsList.append('${name}: ${value}')
+			resultsList.append(document.createElement('br'))
+			})
+		</script>
+	</body>
+</html>

@@ -1,0 +1,454 @@
+@charset "utf-8";
+body{
+	background-color:black;
+}
+#bloc_page{
+	background-color:white;
+	width:1100px;
+	height:1318px;
+	margin:auto;
+}
+.fd{
+	position:absolute;
+	width:1100px;
+	height:160px;
+}
+.logo{
+	position:absolute;
+	margin-top:30px;
+	margin-left:80px;
+}
+nav{
+	position:absolute;
+	margin-top:30px;
+	margin-left:377px;
+	display:inline-block;
+}
+.ba{
+	position:absolute;
+	margin-top:55px;
+	margin-left:375px;
+}
+.ba a{
+	text-decoration:none;
+}
+.ba li{
+	margin-left:30px;
+	display:inline-block;
+}
+
+.wel{
+	color:rgb(120,131,121);
+}
+.fre{
+	margin-left:7px;
+	color:white;
+}
+.for{
+	margin-left:35px;
+	color:rgb(120,131,121);
+}
+.the{
+	margin-left:45px;
+	color:rgb(120,131,121);
+}
+.our{
+	margin-left:40px;
+	color:rgb(120,131,121);
+}
+nav li{
+	display:inline-block;
+	margin-left:30px;
+	}
+nav a{
+	color:rgb(218,222,218);
+	font-size:25px;
+	text-decoration:none;
+}
+.loko{ 
+	color:rgb(89,164,15);
+}
+.ensS{
+	position:absolute;
+	margin-top:90px;
+	margin-left:390px;
+}
+.ensS a{
+	text-decoration:none;
+}
+.ensS li{
+	margin-left:30px;
+	display:inline-block;
+}
+.ic2{
+	margin-left:35px;
+}
+.ic3{
+	margin-left:60px;
+}
+.ic4{
+	margin-left:75px;
+}
+.ic5{
+	margin-left:85px;
+}
+.bg{
+	margin-top:160px;
+	width:1100px;
+}
+section{
+	background-color:white;
+	width:900px;
+	height:780px;
+	margin-left:100px;
+	margin-top:0px;
+}
+.ambon{
+	background-color:white;
+	width:900px;
+	height:250px;
+	margin-top:40px;
+}
+.ambon img{
+	position:absolute;
+}           
+.ambon h1{
+	position:absolute;
+	margin-top:2px;
+	margin-left:10px;
+	font-size:35px;
+	color:white;
+}
+.ambon h2{
+	position:absolute;
+	margin-top:32px;
+	margin-left:18px;
+	font-size:18px;
+	color:white;
+}
+.ambon p{
+	
+}
+.lor{
+	position:absolute;
+	margin-left:70px;
+	font-size:30px;
+	margin-top:13px;
+	line-height:25px;
+}
+.sar1{
+	margin-top:75px;
+	
+}
+.duis{
+	margin-top:75px;
+	position:absolute;
+	font-size:15px;
+	line-height:22px;
+	margin-left:200px;
+	color:rgb(120,131,121);
+	width:700px;
+}
+.read{
+	color:rgb(138,214,88);
+	margin-top:200px;
+	position:absolute;
+	margin-left:200px;
+}
+.apv{
+	background-color:;
+	width:900px;
+	height:250px;
+	margin-top:-5px;
+}
+.apv img{
+	position:absolute;
+}           
+.apv h1{
+	position:absolute;
+	margin-top:2px;
+	margin-left:10px;
+	font-size:35px;
+	color:white;
+}
+.apv h2{
+	position:absolute;
+	margin-top:32px;
+	margin-left:18px;
+	font-size:18px;
+	color:white;
+}
+.amban{
+	background-color:white;
+	width:900px;
+	height:250px;
+	margin-top:-5px;
+}
+.amban img{
+	position:absolute;
+}           
+.amban h1{
+	position:absolute;
+	margin-top:2px;
+	margin-left:10px;
+	font-size:35px;
+	color:white;
+}
+.amban h2{
+	position:absolute;
+	margin-top:32px;
+	margin-left:18px;
+	font-size:18px;
+	color:white;
+}
+.centre{
+	width:213px;
+	height:30px;
+	margin:auto;
+}
+.un {
+	background-color:rgb(108,108,108);
+	width:33px;
+	height:30px;
+	
+}
+.un a{
+	text-decoration:none;
+	font-size:25px;
+	margin-left:10px;
+	color:white;
+}
+.deux {
+	background-color:rgb(120,179,32);
+	width:33px;
+	height:30px;
+	margin-left:36px;
+	margin-top:-30px;
+}
+.deux a{
+	text-decoration:none;
+	font-size:25px;
+	margin-left:10px;
+	color:white;
+}
+.trois {
+	background-color:rgb(120,179,32);
+	width:33px;
+	height:30px;
+	margin-left:72px;
+	margin-top:-30px;
+}
+.trois a{
+	text-decoration:none;
+	font-size:25px;
+	margin-left:10px;
+	color:white;
+}
+.quatre {
+	background-color:rgb(120,179,32);
+	width:33px;
+	height:30px;
+	margin-left:108px;
+	margin-top:-30px;
+}
+.quatre a{
+	text-decoration:none;
+	font-size:25px;
+	margin-left:10px;
+	color:white;
+}
+.cinq {
+	background-color:rgb(120,179,32);
+	width:33px;
+	height:30px;
+	margin-left:144px;
+	margin-top:-30px;
+}
+.cinq a{
+	text-decoration:none;
+	font-size:25px;
+	margin-left:10px;
+	color:white;
+}
+.six {
+	background-color:rgb(120,179,32);
+	width:33px;
+	height:30px;
+	margin-left:180px;
+	margin-top:-30px;
+}
+.six a{
+	text-decoration:none;
+	font-size:25px;
+	margin-left:10px;
+	color:white;
+}
+footer{
+	margin-top:30px;
+	position:absolute;
+}
+.fd1{
+	width:1100px;
+	height:200px;
+}
+.milieu{
+	width:900px;
+	height:200px;
+	margin-left:100px;
+	margin-top:-200px;
+	position:absolute;
+}
+.why{
+	width:195px;
+	height:200px;
+	/* background-color:green; */
+	position:absolute;
+}
+.milieu li{
+	font-size:12px;
+}
+.add{
+	width:195px;
+	height:200px;
+	position:absolute;
+	margin-left:225px;
+}
+.add li{
+	list-style-type:none;
+}
+.add ul{
+	margin-top:-10px;
+	color:rgb(159,159,159);
+	line-height:30px;
+	margin-left:-40px;
+}
+.fol{
+	width:195px;
+	height:200px;
+	position:absolute;
+	margin-left:460px;
+}
+.fol li{
+	list-style-type:none;
+}
+.fol ul{
+	margin-top:-10px;
+	color:rgb(159,159,159);
+	line-height:30px;
+	margin-left:-40px;
+}
+address{
+	width:120px;
+	margin-left:55px;
+	margin-top:-128px;
+}
+address p{
+	font-size:12px;
+	line-height:17px;
+	color:rgb(159,159,159);
+}
+address a{
+	color:white;
+}
+.hor{
+	width:195px;
+	margin-top:-15px;
+}
+.hor1{
+	margin-top:-30px;
+	width:180px;
+}
+.hor2{
+	margin-top:0px;
+	width:180px;
+}
+.hor3{
+	margin-top:-30px;
+	width:195px;
+}
+.hor4{
+	margin-top:0px;
+	width:195px;
+}
+.hor5{
+	margin-top:0px;
+	width:165px;
+}
+.ho{
+	width:165px;
+	margin-left:30px;
+	margin-top:-15px;
+}
+.hor6{
+	margin-top:0px;
+	width:195px;
+}
+.lisS li{
+	margin-top:3px;
+	line-height:25px;
+
+}
+.ensSo ul{
+	position:absolute;
+	margin-top:-100px;
+}
+.ensSo a{
+	color:rgb(159,159,159);
+	text-decoration:none;
+}
+.ensSo li{
+	margin-left:30px;
+}
+.fac{
+	margin-top:-138px;
+	
+}
+.ensSo img{
+	margin-left:30px;
+}
+.tete1{
+	font-size:25px;
+	color:white;
+}
+.why ul{
+	margin-top:-10px;
+	margin-left:-24px;
+	color:rgb(159,159,159);
+	line-height:30px;
+}
+.ne{
+	width:205px;
+	height:190px;
+	position:absolute;
+	margin-left:695px;
+	
+}
+.subm{
+	margin-left:130px;
+	height:30px;
+	margin-top:10px;
+}
+.inp{
+	width:205px;
+	margin-top:-20px;
+	height:30px;
+}
+.faran{
+		font-size:15px;
+		line-height:25px;
+		margin-top:0px;
+		background-color:black;
+		color:rgb(159,159,159);
+		position:absolute;
+		width:1100px;
+		height:90px;
+}
+.faran a{
+	color:white;
+}
+.jas{
+	margin-top:20px;
+}
+.we{
+	margin-top:-15px;
+}
